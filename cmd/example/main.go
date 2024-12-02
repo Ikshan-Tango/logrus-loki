@@ -1,7 +1,7 @@
 package main
 
 import (
-	logrusloki "github.com/schoentoon/logrus-loki"
+	logrusloki "github.com/Ikshan-Tango/logrus-loki"
 	"github.com/sirupsen/logrus"
 )
 
